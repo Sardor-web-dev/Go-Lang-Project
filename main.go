@@ -155,6 +155,15 @@ func main() {
 	// for{
 	// 	print("Не делать так пожалуйста или комп взорвется просто знай про это закоментируй и забудь")
 	// }
-	
 
+	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
 }
