@@ -163,4 +163,25 @@ func main() {
 	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
 	users = append(users, "Murodjon")
 	fmt.Println(users)
+
+	//Массив чисел
+	numbers := []int{1, 2, 3, 4, 5}
+
+	for i := 0; i < 5; i++ {
+		println("Number", numbers[i])
+	}
+
+	for i, user := range users {
+		fmt.Println("User", i, "is", user)
+	}
+
+	people := map[string]int{
+		"Alice": 25,
+		"Bob":   30,
+	}
+
+	for username, age := range people {
+		fmt.Println(username, "is", age, "years old")
+	}
+
 }
