@@ -167,3 +167,1174 @@ func main() {
 	users = append(users, "Murodjon")
 	fmt.Println(users)
 }
+	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}	var nubmers [3]int 
+	nubmers[0] = 1
+	nubmers[1] = 2
+	nubmers[2] = 3
+	fmt.Println(nubmers)
+
+
+	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
+	users = append(users, "Murodjon")
+	fmt.Println(users)
+}v
