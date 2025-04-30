@@ -137,12 +137,10 @@ func main() {
 		fmt.Println("You are adult")
 	}
 
-
 	// Обычный цикл ничего не обычного
 	for i := 0; i < 10; i++ {
 		fmt.Println(i)
 	}
-
 
 	// Цикл как while или женская логика сначало делать потом думать
 	i := 0
@@ -156,12 +154,11 @@ func main() {
 	// 	print("Не делать так пожалуйста или комп взорвется просто знай про это закоментируй и забудь")
 	// }
 
-	var nubmers [3]int 
+	var nubmers [3]int
 	nubmers[0] = 1
 	nubmers[1] = 2
 	nubmers[2] = 3
 	fmt.Println(nubmers)
-
 
 	users := []string{"Sardor", "Danya", "Erkin", "Daler"}
 	users = append(users, "Murodjon")
