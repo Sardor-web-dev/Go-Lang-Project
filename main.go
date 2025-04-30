@@ -154,6 +154,7 @@ func main() {
 	// 	print("Не делать так пожалуйста или комп взорвется просто знай про это закоментируй и забудь")
 	// }
 
+	// это массив
 	var nubmers [3]int
 	nubmers[0] = 1
 	nubmers[1] = 2
@@ -164,22 +165,25 @@ func main() {
 	users = append(users, "Murodjon")
 	fmt.Println(users)
 
-	//Массив чисел
+	//Массив чисел это срез
 	numbers := []int{1, 2, 3, 4, 5}
 
+	// цикл + массив
 	for i := 0; i < 5; i++ {
 		println("Number", numbers[i])
 	}
 
+	// цикл range
 	for i, user := range users {
 		fmt.Println("User", i, "is", user)
 	}
 
+	// Метод map
 	people := map[string]int{
 		"Alice": 25,
 		"Bob":   30,
 	}
-
+	// Цикл range
 	for username, age := range people {
 		fmt.Println(username, "is", age, "years old")
 	}
