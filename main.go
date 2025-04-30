@@ -188,10 +188,11 @@ func main() {
 		fmt.Println(username, "is", age, "years old")
 	}
 	index()
+	isAdult(age)
 
 }
 
-// типо функция которая принимает пропсы 
+// типо функция которая принимает пропсы
 func greet(name string) {
 	fmt.Print("Hello ", name)
 }
@@ -204,3 +205,17 @@ func index() {
 	greet(name)
 }
 
+// длинная моя версия кода
+// func isAdult(age int) bool {
+// 	if age >= 18 {
+// 		return true
+// 	} else {
+// 		return false
+// 	}
+// }
+
+// короткая версия самого лучшего помощника в мире
+
+func isAdult(age int) bool {
+	return age >= 18
+}
