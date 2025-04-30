@@ -187,5 +187,20 @@ func main() {
 	for username, age := range people {
 		fmt.Println(username, "is", age, "years old")
 	}
+	index()
 
 }
+
+// типо функция которая принимает пропсы 
+func greet(name string) {
+	fmt.Print("Hello ", name)
+}
+
+// функция котороя задает пропсы
+func index() {
+	var name string
+	fmt.Print("What is Your name? ")
+	fmt.Scan(&name)
+	greet(name)
+}
+
