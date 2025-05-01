@@ -116,7 +116,9 @@
 
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	var name string
@@ -154,7 +156,6 @@ func main() {
 	// 	print("Не делать так пожалуйста или комп взорвется просто знай про это закоментируй и забудь")
 	// }
 
-	
 	// это массив
 	var nubmers [3]int
 	nubmers[0] = 1
