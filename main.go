@@ -190,13 +190,13 @@ func main() {
 	index()
 	isAdult(age)
 	seperate()
-
+	// работа с map
 	devs := map[string]int{
 		"Sardor": 15,
 		"Danya":  16,
 		"Erkin":  16,
 	}
-
+	// работа с циклом и range
 	for name, age := range devs {
 		fmt.Println(name, "is", age, "years old")
 	}
