@@ -191,6 +191,16 @@ func main() {
 	isAdult(age)
 	seperate()
 
+	devs := map[string]int{
+		"Sardor": 15,
+		"Danya":  16,
+		"Erkin":  16,
+	}
+
+	for name, age := range devs {
+		fmt.Println(name, "is", age, "years old")
+	}
+
 }
 
 // типо функция которая принимает пропсы
