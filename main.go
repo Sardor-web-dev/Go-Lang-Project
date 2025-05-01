@@ -170,7 +170,7 @@ func main() {
 
 	// цикл + массив
 	for i := 0; i < 5; i++ {
-		println("Number", numbers[i])
+		fmt.Println("Number", numbers[i])
 	}
 
 	// цикл range
@@ -189,12 +189,13 @@ func main() {
 	}
 	index()
 	isAdult(age)
+	seperate()
 
 }
 
 // типо функция которая принимает пропсы
 func greet(name string) {
-	fmt.Print("Hello ", name)
+	fmt.Println("Hello ", name)
 }
 
 // функция котороя задает пропсы
@@ -218,4 +219,11 @@ func index() {
 
 func isAdult(age int) bool {
 	return age >= 18
+}
+
+func seperate() {
+	num := []int{1, 2, 3, 4}
+	for n := 0; n < 4; n++ {
+		fmt.Println(num[n], "sec")
+	}
 }
